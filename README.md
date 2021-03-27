@@ -24,6 +24,7 @@ To test all the fonctionalities of the chatbot you can try the folowing messages
 - What can I do with my 2 friends easily ? 
 - What can I do alone without paying ?
 - What can I do for free and easily ? 
+- Bye
 To these questions, the chatbot should answer an activity well corresponding to the criterias asked.
 
 Sometime, the API does not have  activites corresponding to the criteria and the chatbot will reponse to you "Sorry there's no correspondence for your request". You can try it by the following question :
@@ -31,3 +32,5 @@ Sometime, the API does not have  activites corresponding to the criteria and the
 
 In the same idea, if you ask a question that has not link with the goal of this chatbot, it will reponse to you "Sorry, I didn't understand your request". You can try it by saying for example :
 - What is your name ?
+
+By asking these questions on Messenger, you discovered all the fonctionalities of our bot ! 
